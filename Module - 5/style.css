@@ -1,0 +1,46 @@
+.red-txt {
+  color: #ff0000
+}
+
+.blue-txt {
+  color: #0000ff;
+}
+
+.green-txt {
+  color: #00ff00;
+}
+
+.orange-txt {
+  color: #ff6200;
+}
+
+.big-txt {
+  font-size: 20px;
+}
+
+.tiny-txt {
+  font-size: 5px;
+}
+
+.center-txt {
+  text-align: center;
+}
+
+.bold-txt {
+  font-weight: bold;
+}
+
+.arial-font {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.styledFont {
+  color: #999999;
+  font-style: italic;
+}
+
+#styledImage {
+  border-width: 5px;
+  border-style: solid;
+  border-color: #ff0000;
+}
